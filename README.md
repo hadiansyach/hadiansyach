@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hadiansyach
 - 👀 I’m interested in Design, Editing and Programming
-- 🌱 I’m currently learning web programming
+- 🌱 I’m currently learning Android software development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
